@@ -11,17 +11,6 @@ A Python-based desktop application for managing personal income, expenses, month
 - Export data
 - Database backup
 
-## Screenshots
-
-### Dashboard
-
-![Personal Expense Tracker Dashboard](screenshots/dashboard.png)
-
-## How to Run
-
-```bash
-python gui.py
-
 ### Transaction Management
 - Add new income and expense transactions
 - View all transactions
