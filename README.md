@@ -3,6 +3,24 @@
 A Python-based desktop application for managing personal income, expenses, monthly and yearly financial records, reports, multiple currencies, transaction search, sorting, CSV export, and database backup.
 
 ## Features
+- Add transactions
+- View transactions
+- Search and sort transactions
+- Multiple currencies
+- Monthly and yearly reports
+- Export data
+- Database backup
+
+## Screenshots
+
+### Dashboard
+
+![Personal Expense Tracker Dashboard](screenshots/dashboard.png)
+
+## How to Run
+
+```bash
+python gui.py
 
 ### Transaction Management
 - Add new income and expense transactions
